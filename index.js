@@ -10,9 +10,9 @@ var thingsToDo = [
     "Bot Starting Destroy Node process...".red,
     "finding node_modules folders".red,
     "super serious stuff happening".red,
-    "decrunching data".red,
-    "do my laundry".red,
-    "optimizing".red,
+    "getting some coffee...LOL".red,
+    "deleting node_modules".red,
+    "finishing up the destroy process".red,
 ];
 
 var countDown = thingsToDo.length;
