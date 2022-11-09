@@ -1,0 +1,17 @@
+{
+  "name": "destroy-node",
+  "version": "1.0.0",
+  "description": "Node package to find and delete all node_modules directories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "find-remove": "^4.1.0",
+    "node-loading": "^1.1.1",
+    "terminal-kit": "^3.0.0"
+  }
+}
